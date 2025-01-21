@@ -4,7 +4,7 @@ title:      [阅读《三体》及重温Shameless后对生活的思考]
 subtitle:   [宇宙广阔，生命是奇迹的馈赠]
 date:       [2025-01-21]
 author:     Roy Qian
-header-img: img/post-bg-3body.jpg
+header-img: img/post-bg-3body.png
 catalog: true
 tags:
     - 阅读
