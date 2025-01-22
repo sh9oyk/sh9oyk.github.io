@@ -1020,6 +1020,7 @@ samp {
   background-size: cover;
   -o-background-size: cover;
   margin-bottom: 0px;
+  position: relative;
   /* 0 on mobile, modify by Hux */
 }
 .intro-header.style-text {
@@ -1577,6 +1578,8 @@ img::-moz-selection {
   max-width: 100%;
   height: auto;
   margin: 1.5em auto 1.6em auto;
+  object-fit: cover;
+  object-position: center;
 }
 /* Hux Optimize UserExperience */
 .navbar-default .navbar-toggle:focus,
